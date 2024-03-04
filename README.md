@@ -1,6 +1,6 @@
 <h2>Hello, I'm STONE 🪨</h2>
 
-<div>
+<div align='center'>
     <a href="https://instagram.com/p-samaname" target="blank">
         <img src="https://img.shields.io/badge/instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>
     </a>
