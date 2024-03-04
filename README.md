@@ -1,4 +1,4 @@
-<h2 align="center">Hello, I'm STONE 🪨</h2>
+## Hello, I'm STONE 🪨
 
 <div>
     <a href="https://instagram.com/p-samaname" target="blank">
