@@ -5,7 +5,7 @@
 </a>
 <a href="https://velog.io/@p-samename" target="_blank">
     <img src="https://img.shields.io/badge/velog-20C997?style=flat&logo=velog&logoColor=white"/>
-</a>
+</a>{:target=”_blank”}
 
 
 <hr/>
