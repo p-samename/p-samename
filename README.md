@@ -1,6 +1,6 @@
 ## Hello, I'm STONE 🪨
 
-<a href="https://instagram.com/p-samaname">
+<a href="https://instagram.com/p-samaname"  target="blank">
     <img src="https://img.shields.io/badge/instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>
 </a>
 <a href="https://velog.io/@p-samename">
